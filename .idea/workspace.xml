@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05751b18-9db3-4e67-a043-22bc3bd3fa37" name="Default Changelist" comment="" />
+    <list default="true" id="05751b18-9db3-4e67-a043-22bc3bd3fa37" name="Default Changelist" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +35,33 @@
       <option name="presentableId" value="Default" />
       <updated>1609155138793</updated>
       <workItem from="1609155142035" duration="593000" />
-      <workItem from="1609158825225" duration="1521000" />
+      <workItem from="1609158825225" duration="2014000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1609161218419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609161218419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609161244616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609161244616" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609161151679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1609161151679" />
   </component>
 </project>
